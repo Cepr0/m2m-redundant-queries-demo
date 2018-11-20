@@ -1,5 +1,7 @@
 Demo of redundant select queries while updating the entity with ManyToMany relation.
 
+[Related SO question](https://ru.stackoverflow.com/q/909052)
+
 ### Entities:
 
 ```java
